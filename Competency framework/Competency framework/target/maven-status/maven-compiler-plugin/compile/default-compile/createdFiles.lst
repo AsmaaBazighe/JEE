@@ -1,0 +1,5 @@
+ma\ac\esi\referentielCompetences\model\ConnectBd.class
+ma\ac\esi\referentielCompetences\model\Skill.class
+ma\ac\esi\referentielCompetences\model\SkillDAO.class
+ma\ac\esi\referentielCompetences\model\User.class
+ma\ac\esi\referentielCompetences\controleur\SkillServlet.class
